@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="img/Conversao_1.png" type="image/x-icon">
+    <title>Conversor de moedas</title>
+</head>
+
+<body onload="carregarMoedas()">
+    <header>
+        <div class="container">
+            <h1 class="page-title">
+                Conversor de moedas
+            </h1>
+            <img src="img/logo-imersao-aluraflix.svg" class="page-logo" alt="Logo da página">
+        </div>
+        <a href="https://alura.com.br/" target="_blank">
+            <img src="img/alura-logo.svg" alt="" class="alura-logo">
+            <img src="img/Conversao_1.png" style="height: 150px;">
+        </a>
+    </header>
+
+    <section>
+        <form id="form">
+            <label for="nome">Informe seu nome</label>
+            <input type="text" name="nome" id="nome">
+
+            <label for="moeda">Selecione as moedas</label>
+            <select name="moeda" id="moeda"></select>
+
+            <label for="valor">Valor a converter</label>
+            <input type="text" name="valor" id="valor">
+
+            <button>Converter</button>
+        </form>
+    </section>
+
+    <div id="resultado"></div>
+
+    <footer>
+        Cotações provenientes da API <a href="https://economia.awesomeapi.com.br">https://economia.awesomeapi.com.br</a>
+    </footer>
+
+    <script src="calc.js">
+
+    </script>
+</body>
+
+</html>
