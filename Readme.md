@@ -15,7 +15,7 @@ Os desafios foram atividades deixadas ao fim da aula para serem resolvidas.
     <li><b>Incluir conversão da moeda para Bitcoin:</b> [Realizado]</li>
     <li><b>Adicionar outras moedas para converter:</b> [Realizado]</li>
     <li><b>Criar um conversor de quilômetros para anos-luz e descobrir o tempo necessário para viajar de uma estrela para outra:</b> Projeto disponível neste link https://github.com/simastech-com/ConversorDeDistancias-ImersaoDev-Javascript [Realizado]</li>
-    <li><b>Desenvolver um conversor de temperaturas entre Fahrenheit, Kelvin e Celsius:</b> Projeto disponível neste link https://github.com/simastech-com/ConversorDeTemperatura-ImersaoDev-Javascript [Realizado]<</li>
+    <li><b>Desenvolver um conversor de temperaturas entre Fahrenheit, Kelvin e Celsius:</b> Projeto disponível neste link https://github.com/simastech-com/ConversorDeTemperatura-ImersaoDev-Javascript [Realizado]</li>
 </ul>
 
 # Melhorias
