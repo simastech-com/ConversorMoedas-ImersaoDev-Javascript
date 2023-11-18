@@ -25,6 +25,7 @@ As melhorias são itens incluídos no projeto e que não foram solicitados nas a
     <li>Cotações carregadas da API https://economia.awesomeapi.com.br, não sendo necessário informar a taxa de conversão manualmente.</li>
     <li>Toda a interação do usuário ocorre no corpo da página, não sendo mais necessário alterar o código.</li>
     <li>Alterações de css e inclusão de imagens localmente.</li>
+    <li>Inclusão de favicon.</li>
 </ul>
 
 # Visualização
